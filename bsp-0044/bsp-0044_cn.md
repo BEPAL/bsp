@@ -1,0 +1,73 @@
+# BSP-0044 : 注册 BIP-0044 币种类型
+
+```
+编号:  BSP-0044
+标题:  注册 BIP-0044 币种类型
+类型:  协议标准
+状态:  草稿
+作者:  LuYong Chen (louie@bepal.pro)
+时间:  2018-09-29
+```
+
+## 简介
+
+BIP-0044定义了分层确定性钱包的逻辑层次结构。
+
+而在层次结构的第2级中描述了一种使用的币种类型。
+
+BEPAL 将介绍其应用承认的币种类型。
+
+## 目的
+
+记录 BEPAL 所承认的路径
+
+## 注册币种类型
+
+这些是在“币种类型”章节中描述的BIP44第2级的注册币种类型。
+
+所有这些常数都被用作硬化的推导。
+
+index | hexa       | symbol | coin
+------|------------|--------|-----------------------------------
+0     | 0x80000000 | BTC    | [Bitcoin](https://bitcoin.org/)
+1     | 0x80000001 |        | Testnet (all coins)
+2     | 0x80000002 | LTC    | [Litecoin](https://litecoin.org/)
+3     | 0x80000003 | DOGE   | [Dogecoin](https://github.com/dogecoin/dogecoin)
+5     | 0x80000005 | DSH    | [Dash](https://github.com/dashpay/dash) (ex Darkcoin)
+43    | 0x8000002b | XEM    | [NEM](https://github.com/NemProject)
+52    | 0x80000034 | BTCD   | [Bitcoindark](https://github.com/jl777/btcd)
+60    | 0x8000003c | ETH    | [Ether](https://ethereum.org/ether)
+61    | 0x8000003d | ETC    | [Ether Classic](https://ethereumclassic.github.io)
+135   | 0x80000087 | STEEM  | [Steem](http://steem.io)
+144   | 0x80000090 | XRP    | [Ripple](https://ripple.com)
+145   | 0x80000091 | BCH    | [Bitcoin Cash](https://www.bitcoincash.org)
+153   | 0x80000099 | BTM    | [Bytom](https://bytom.io)
+156   | 0x8000009c | BTG    | [Bitcoin Gold](http://www.btcgpu.org)
+171   | 0x800000ab | HSR    | [Hcash](https://h.cash)
+666   | 0x8000029a | ACT    | [Achain](https://www.achain.com/)
+668   | 0x8000029c | SSC    | [SelfSell](https://www.selfsell.com/)
+818   | 0x80000332 | VET    | [VeChain Token](https://vechain.com/)
+888   | 0x80000378 | NEO    | [NEO](https://neo.org/)
+999   | 0x800003e7 | BCD    | [Bitcoin Diamond](http://btcd.io/)
+1000  | 0x800003e8 | BTN    | [Bitcoin New](http://bitcoinnew.org/)
+2301  | 0x800008fd | QTUM   | [QTUM](https://qtum.org/en/)
+2302  | 0x800008fe | ETP    | [Metaverse](https://mvs.org/)
+2303  | 0x800008ff | GXC    | [GXChain](https://www.gxb.io)
+2304  | 0x80000900 | SSC    | [SelfSell](https://www.selfsell.com)
+2305  | 0x80000901 | ELA    | [Elastos](https://www.elastos.org/)
+8888  | 0x800022b8 | SBTC   | [Super Bitcoin](https://www.superbtc.org)
+8999  | 0x80002327 | BTP    | [Bitcoin Pay](http://www.btceasypay.com)
+9888  | 0x800026a0 | BTF    | [Bitcoin Faith](http://bitcoinfaith.org)
+9999  | 0x8000270f | GOD    | [Bitcoin God](https://www.bitcoingod.org)
+
+只有当 BEPAL 钱包实现BIP-0044时，币种类型才会被添加。
+
+## 外部库
+
+* [BIP44-constants](https://www.npmjs.com/package/bip44-constants) ([source](http://github.com/bitcoinjs/bip44-constants)) JavaScript package with described coin types
+
+## 引用
+
+* [BIP-0044: 分层确定性钱包的多账户层次结构](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
+
+* [slips-0044: 注册 BIP-0044 币种类型](https://github.com/satoshilabs/slips/blob/master/slip-0044.md)
