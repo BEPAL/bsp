@@ -83,14 +83,28 @@ bitcoin:175tWpb8K1S7NmH4Zx6rewF9WQrcZv245W?label=louie&amount=20.3
 |  2303 |  GXC | [gxchain](https://www.gxb.io/) |
 |  2304 |  SSC | [selfsell](https://www.selfsell.com/) |
 
+## 更多
+
+|  内容  |
+| :---:  |
+| [更多示例](example-extension_cn.md) |
+
 
 ## 引用
 
-[bip-0021.mediawiki - URI方案](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki)
+|  内容  |
+| :---:  |
+| [bip-0021.mediawiki - URI方案](https://github.com/bitcoin/bips/blob/master/bip-0021.mediawiki) |
+| [slip-0044.md - 币种类型注册](https://github.com/Bepal/slips/blob/master/slip-0044.md) |
+| [bip-0072.mediawiki - 支付协议的uri扩展](https://github.com/bitcoin/bips/blob/master/bip-0072.mediawiki) |
 
-[slip-0044.md - 币种类型注册](https://github.com/Bepal/slips/blob/master/slip-0044.md)
 
-[bip-0072.mediawiki - 支付协议的uri扩展](https://github.com/bitcoin/bips/blob/master/bip-0072.mediawiki)
+
+
+
+
+
+
 
 
 
