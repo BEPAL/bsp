@@ -11,7 +11,7 @@
 这份标准对企业完善自身产品会有极大的帮助。
 
 
-| Number                              | Title                                                       | Type          | Status   |
+| 编号                                | 标题                                                        | 类型          | 状态     |
 |-------------------------------------|-------------------------------------------------------------|---------------|----------|
-| [BSP-0000](bsp-0000/bsp-0000_cn.md) | SLIP Template                                               | Informational | Accepted |
-| [BSP-0021](bsp-0021/bsp-0021_cn.md) | URI Scheme Extend                                           | Applications  | Draft    |
+| [BSP-0000](bsp-0000/bsp-0000_cn.md) | BSP模版                                                     | 信息          | 通过     |
+| [BSP-0021](bsp-0021/bsp-0021_cn.md) | URI方案扩展                                                 | 应用          | 草稿     |

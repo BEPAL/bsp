@@ -14,5 +14,5 @@ This standard will be of great help for enterprises to improve their products.
 
 | Number                           | Title                                                          | Type          | Status   |
 |----------------------------------|----------------------------------------------------------------|---------------|----------|
-| [BSP-0000](bsp-0000/bsp-0000.md) | SLIP Template                                                  | Informational | Accepted |
+| [BSP-0000](bsp-0000/bsp-0000.md) | BSP Template                                                   | Informational | Accepted |
 | [BSP-0021](bsp-0021/bsp-0021.md) | URI Scheme Extend                                              | Applications  | Draft    |
