@@ -1,1 +1,1 @@
-# BEPAL 标准文档
+# Blockchain Standard Proposals
