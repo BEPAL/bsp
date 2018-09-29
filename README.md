@@ -6,10 +6,11 @@
 |   [English](README.md)   |
 | [中文简体](README_cn.md) |
 
+This project aims to introduce BEPAL's technical rules and protocol standards.
 
-The project is designed to help the industry, which has just entered blockchain, propose a common protocol standard.
+This is a very good protocol standard for the company team that just entered the blockchain industry.
 
-This standard will be of great help for enterprises to improve their products.
+This standard for enterprises to improve their products. Docking BEPAL applications. It's going to be very helpful.
 
 
 | Number                           | Title                                                          | Type          | Status   |
