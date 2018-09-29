@@ -4,9 +4,6 @@ The project is designed to help the industry, which has just entered blockchain,
 
 This standard will be of great help for enterprises to improve their products.
 
-# Language
-
-
 | Language  |
 | :---: |
 | [English](README.md) |
