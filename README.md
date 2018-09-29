@@ -17,4 +17,4 @@ This standard for enterprises to improve their products. Docking BEPAL applicati
 |----------------------------------|----------------------------------------------------------------|---------------|----------|
 | [BSP-0000](bsp-0000/bsp-0000.md) | BSP Template                                                   | Informational | Accepted |
 | [BSP-0021](bsp-0021/bsp-0021.md) | URI Scheme Extend                                              | Applications  | Draft    |
-| [BSP-0021](bsp-0044/bsp-0044.md) | Registered coin types for BIP-0044                             | Applications  | Draft    |
+| [BSP-0044](bsp-0044/bsp-0044.md) | Registered coin types for BIP-0044                             | Applications  | Draft    |
