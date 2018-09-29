@@ -1,4 +1,4 @@
-# Blockchain Standard Proposals
+# BEPAL Standard Proposals
 
 
 |         Language         |
