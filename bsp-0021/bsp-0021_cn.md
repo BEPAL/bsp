@@ -6,7 +6,7 @@
 层级:  应用层
 类型:  标准协议
 状态:  草稿
-作者:  BEPAL <github@bepal.pro>
+作者:  陈鲁勇 <louie@bepal.pro>
 创建时间: 2018-09-28
 ```
 
