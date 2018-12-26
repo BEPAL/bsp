@@ -10,17 +10,17 @@
 创建时间: 2018-09-28
 ```
 
-==简介==
+## 简介
 
-该`gxips`提出了用于进行币种支付的URI方案。
+该方案用于进行币种支付的URI方案。
 
 根据`URI RFC3986`标准，规定的URI的一般格式。使用`UTF-8`字符集来表示。
 
-==动机==
+## 动机
 
 此URI方案的目的是使用户只需单击网页上的链接或扫描QR码即可轻松进行付款。
 
-==详情==
+## 详情
 
 
 
@@ -33,7 +33,7 @@
 
 **币种名:地址?键=值&键=值&...&键=值**
 
-==示例==
+## 示例
 
 地址：
 ```
@@ -55,7 +55,7 @@ bitcoin:175tWpb8K1S7NmH4Zx6rewF9WQrcZv245W?label=louie&amount=20.3
 必须遵循正确的URI编码
 
 
-==注册URI键名==
+## 注册URI键名
 
 |  编号 | 键名  | 说明  |
 | :---: | :---: | :---: |
@@ -64,7 +64,7 @@ bitcoin:175tWpb8K1S7NmH4Zx6rewF9WQrcZv245W?label=louie&amount=20.3
 | 3 | decimal | 小数点位数 |
 | 4 | contractAddress | 合约标记地址 |
 
-==注册币种名==
+## 注册币种名
 
 为公链注册币种名称
 
@@ -84,7 +84,7 @@ bitcoin:175tWpb8K1S7NmH4Zx6rewF9WQrcZv245W?label=louie&amount=20.3
 
 
 
-==引用==
+## 引用
 
 [更多URI示例](example-extension_cn.md) 
 
