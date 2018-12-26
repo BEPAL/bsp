@@ -1,20 +1,20 @@
-# BEPAL 建议标准
+# BEPAL Standard Proposals
 
-|           语言           |
+
+|         Language         |
 | :----------------------: |
 |   [English](README.md)   |
 | [中文简体](README_cn.md) |
 
+This project aims to introduce BEPAL's technical rules and protocol standards.
 
-这个项目旨在介绍 BEPAL 的技术规则与协议标准。
+This is a very good protocol standard for the company team that just entered the blockchain industry.
 
-这对于刚进入区块链产业的公司团队，是一份非常不错的协议标准。
-
-这份标准对企业完善自身产品，对接 BEPAL 应用，都会有极大的帮助。
+This standard for enterprises to improve their products. Docking BEPAL applications. It's going to be very helpful.
 
 
-| 编号                                | 标题                                                        | 类型          | 状态     |
-|-------------------------------------|-------------------------------------------------------------|---------------|----------|
-| [BSP-0000](bsp-0000/bsp-0000_cn.md) | BSP模版                                                     | 信息          | 通过     |
-| [BSP-0021](bsp-0021/bsp-0021_cn.md) | URI方案扩展                                                 | 应用          | 草稿     |
-| [BSP-0044](bsp-0044/bsp-0044_cn.md) | 注册BIP44币种类型                                           | 应用          | 草稿     |
+| Number                           | Title                                                          | Type          | Status   |
+|----------------------------------|----------------------------------------------------------------|---------------|----------|
+| [BSP-0000](bsp-0000/bsp-0000.md) | BSP Template                                                   | Informational | Accepted |
+| [BSP-0021](bsp-0021/bsp-0021.md) | URI Scheme Extend                                              | Applications  | Draft    |
+| [BSP-0044](bsp-0044/bsp-0044.md) | Registered coin types for BIP-0044                             | Applications  | Draft    |
