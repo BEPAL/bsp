@@ -5,7 +5,7 @@ Number:  BSP-0002
 Title:   Registered coin types for BIP-0044
 Type:    Standard
 Status:  Draft
-Authors: Luyong Chen (louie@bepal.pro)
+Redactor: Luyong Chen (louie@bepal.pro)
 Created: 2018-09-29
 ```
 
