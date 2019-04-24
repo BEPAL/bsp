@@ -58,6 +58,7 @@ index | hexa       | symbol | coin
 8999  | 0x80002327 | BTP    | [Bitcoin Pay](http://www.btceasypay.com)
 9888  | 0x800026a0 | BTF    | [Bitcoin Faith](http://bitcoinfaith.org)
 9999  | 0x8000270f | GOD    | [Bitcoin God](https://www.bitcoingod.org)
+99999 | 0x8001869f | WICC   | [Waykichain](https://www.waykichain.com/) 
 
 Coin types will be added only if BEPAL wallet implementing BIP-0044 for desired coin.
 
