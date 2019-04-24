@@ -22,8 +22,6 @@
 
 ## 详情
 
-
-
 1. 根据币种，生成文本格式的收款参数字符串
 2. 将文本字符串进行URLEncoder，编码格式选择UTF-8
 3. URLEncoder后的文本生成收款二维码
@@ -81,6 +79,7 @@ bitcoin:175tWpb8K1S7NmH4Zx6rewF9WQrcZv245W?label=louie&amount=20.3
 |  2301 |  QTUM | [qtum](https://qtum.org/) |
 |  2303 |  GXC | [gxchain](https://www.gxb.io/) |
 |  2304 |  SSC | [selfsell](https://www.selfsell.com/) |
+|  99999 |  WICC | [Waykichain](https://www.waykichain.com/) |
 
 
 
