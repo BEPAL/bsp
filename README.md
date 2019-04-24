@@ -2,8 +2,8 @@
 
 |           语言           |
 | :----------------------: |
-|   [English](README_en.md)   |
-| [中文简体](README.md) |
+| [English](README_en.md)  |
+| [中文简体](README.md)    |
 
 
 这个项目旨在介绍 BEPAL 的技术规则与协议标准。
