@@ -43,6 +43,7 @@ index | hexa       | symbol | coin
 153   | 0x80000099 | BTM    | [Bytom](https://bytom.io)
 156   | 0x8000009c | BTG    | [Bitcoin Gold](http://www.btcgpu.org)
 171   | 0x800000ab | HSR    | [Hcash](https://h.cash)
+195   | 0x800000c3 | TRX    | [Tron](https://tron.network/enindex.html)
 666   | 0x8000029a | ACT    | [Achain](https://www.achain.com/)
 668   | 0x8000029c | SSC    | [SelfSell](https://www.selfsell.com/)
 818   | 0x80000332 | VET    | [VeChain Token](https://vechain.com/)
